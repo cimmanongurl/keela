@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Pacifico', serif;
+}
+
+h1 {
+  margin-top: 50px;
+  font-size: 7.625rem;
+  color: #66BFBF;
+  font-family: 'Lobster Two', cursive, serif;
+}
+
+p {
+  margin-top: 0;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.8rem;
+  color: #f4eee8;
+line-height: 2
+}
+
+hr{
+  border: dotted #f6dfeb 20px; border-bottom: none;
+  width: 6%;
+  margin: 25px auto
+}
+
+h2 {
+  margin-top: 50px;
+  color: #d2f5e3;
+  font-family: 'Leckerli One', serif;
+  font-size: 3.625rem;
+}
+
+h3 {
+  margin-top: 50px;
+  font-family: 'Leckerli One', serif;
+  font-size: 2rem;
+  color: #11999E
+}
+
+.front {
+  text-decoration: underline;
+  margin: 0 auto 0 auto 0
+}
+
+.title {
+  background-color: #ca8a8b;
+  position: relative;
+  padding-top: 100px
+}
+
+.profile {
+  background-color: #ca8a8b;
+  position: relative;
+  margin: 0 auto 0 auto 0;
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+
+.middle-container {
+  background-color: #ca8a8b;
+  position: relative;
+  margin: 0 auto 0 auto 0;
+  padding-bottom: 20px;
+
+}
+
+.bottom-container {
+  background-color: #98ddca;
+  position: relative;
+  margin: 0 auto 0 auto 0;padding-top: 20px;
+  padding-bottom: 20px
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+  top: 10px
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.browngirl-circular {
+  border-radius: 100%;
+  width: 20%
+}
+.intro{width: 70%; margin:auto
+
+}
+.partnerdancing {
+  width: 45%;
+  margin-right: 30px;
+  float: left;
+}
+
+.partnerdancingdescrp {
+  clear: left;
+
+}
+
+.eventplanner {
+  width: 35%;
+  float: right;
+  margin-left: 30px
+}
+
+.eventplannerdescrp {
+  clear: left;
+}
+
+.coffeecup {
+  width: 40%
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+
+.contact-me {
+  font-size: 1.25rem;
+  padding-top:20px;
+  line-height: 2
+}
+
+.footer-link {
+  font-size: 1.7rem;
+  color: #11999E
+}
+
+.copyright {font-size: 1rem}
